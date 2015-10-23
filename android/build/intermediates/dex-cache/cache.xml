@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/ttrojan/Desktop/example/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="/Users/ttrojan/Desktop/example/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.0-549a9e2b762cc32ac7ba8b200115f421de2619e8.jar" />
+    </item>
+    <item
+        jar="/Users/ttrojan/Desktop/example/android/app/build/intermediates/exploded-aar/example/react-native-android-audio-streaming-aac/unspecified/jars/libs/aacdecoder-android-0.8.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="43fc2f0e7556b0a743cece06945b9eff5c241499">
+        <dex dex="/Users/ttrojan/Desktop/example/android/app/build/intermediates/pre-dexed/debug/aacdecoder-android-0.8-e27e4cb3f42db6aa2b5da7608e10926013e0fdb7.jar" />
+    </item>
+    <item
+        jar="/Users/ttrojan/Desktop/example/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp/0.6.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1d5fddbfc516e39dd74d776e5cca8b761721990b">
+        <dex dex="/Users/ttrojan/Desktop/example/android/app/build/intermediates/pre-dexed/debug/classes-3cbced5ede22d3607dce7888a01c5ab9cd2fe601.jar" />
+    </item>
+    <item
+        jar="/Users/ttrojan/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.1.4/129874135e6081269ace2312092031558865de12/bolts-android-1.1.4.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="129874135e6081269ace2312092031558865de12">
+        <dex dex="/Users/ttrojan/Desktop/example/android/app/build/intermediates/pre-dexed/debug/bolts-android-1.1.4-a8fb68eb314f3e78e9e9fc968dcddce4fd2517c1.jar" />
+    </item>
+    <item
+        jar="/Users/ttrojan/Desktop/example/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.6.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="af0fe468c884e2d153cf564326b23b54ff0040ce">
+        <dex dex="/Users/ttrojan/Desktop/example/android/app/build/intermediates/pre-dexed/debug/classes-607f763eb5cef2d7ecc37b1f01870bac4e64edd8.jar" />
+    </item>
+    <item
+        jar="/Users/ttrojan/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.5.0/bb7d4d96e780e8ef4f275c7d8dd3ef2883ddf99a/okio-1.5.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="bb7d4d96e780e8ef4f275c7d8dd3ef2883ddf99a">
+        <dex dex="/Users/ttrojan/Desktop/example/android/app/build/intermediates/pre-dexed/debug/okio-1.5.0-cbdda8e014aec74963bbbc691e37b9cff2a39563.jar" />
+    </item>
+    <item
+        jar="/Users/ttrojan/Desktop/example/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.11.0/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0b5e946b76cdb1f00b18f2981e7d997141a66c9f">
+        <dex dex="/Users/ttrojan/Desktop/example/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5-6d6f243becb910b2639763efc6d3a0325823a236.jar" />
+    </item>
+    <item
+        jar="/Users/ttrojan/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/ttrojan/Desktop/example/android/app/build/intermediates/pre-dexed/debug/library-2.4.0-b751dead29e9bd17c44def17ddaf95f18c8ebfd0.jar" />
+    </item>
+    <item
+        jar="/Users/ttrojan/Desktop/example/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="99c854e791067a69667c57c7ef1b596810c94ab2">
+        <dex dex="/Users/ttrojan/Desktop/example/android/app/build/intermediates/pre-dexed/debug/classes-eed9b87b9266058d654477a1742779ecaf529f36.jar" />
+    </item>
+    <item
+        jar="/Users/ttrojan/Desktop/example/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.6.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="dd4c42401d36342901ac4280fb92a831f8007f3d">
+        <dex dex="/Users/ttrojan/Desktop/example/android/app/build/intermediates/pre-dexed/debug/classes-ff9d105f59d2b59927a2202339b0fb9a89d7d881.jar" />
+    </item>
+    <item
+        jar="/Users/ttrojan/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp-ws/2.4.0/69206d28966656052a982ceded583abdeb41cf63/okhttp-ws-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="69206d28966656052a982ceded583abdeb41cf63">
+        <dex dex="/Users/ttrojan/Desktop/example/android/app/build/intermediates/pre-dexed/debug/okhttp-ws-2.4.0-bd2d84413bc96d51ebeb93ae6ed08281801080b7.jar" />
+    </item>
+    <item
+        jar="/Users/ttrojan/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/ttrojan/Desktop/example/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0-994f701fb95fc4c2570d0fa87503435c9804a8b6.jar" />
+    </item>
+    <item
+        jar="/Users/ttrojan/Desktop/example/android/app/build/intermediates/exploded-aar/example/react-native-android-audio-streaming-aac/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="14921be718c90a58d0251adebc4fe45f9a4b0ff8">
+        <dex dex="/Users/ttrojan/Desktop/example/android/app/build/intermediates/pre-dexed/debug/classes-5f2393d2100094e714f8bf05cc8cec589cb3edc6.jar" />
+    </item>
+    <item
+        jar="/Users/ttrojan/Desktop/example/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.6.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c10091a128e47ed4ef804bd753c0f45745699756">
+        <dex dex="/Users/ttrojan/Desktop/example/android/app/build/intermediates/pre-dexed/debug/classes-a65f592ee62ae82a08a2e90d85aa6adea326e133.jar" />
+    </item>
+    <item
+        jar="/Users/ttrojan/Desktop/example/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="/Users/ttrojan/Desktop/example/android/app/build/intermediates/pre-dexed/debug/classes-a17dc84cfd60f8440abcb43dd766af8c8ae6fd09.jar" />
+    </item>
+    <item
+        jar="/Users/ttrojan/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.2.3/1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14/jackson-core-2.2.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14">
+        <dex dex="/Users/ttrojan/Desktop/example/android/app/build/intermediates/pre-dexed/debug/jackson-core-2.2.3-67bd27c9c3950b8893b9d92a462c53e48be4b07c.jar" />
+    </item>
+    <item
+        jar="/Users/ttrojan/Desktop/example/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.6.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="eb9817e26186e1a267cdd14211742ecc793de32e">
+        <dex dex="/Users/ttrojan/Desktop/example/android/app/build/intermediates/pre-dexed/debug/classes-8702df1c5db2a24a4a64451c13e3341be02d99c9.jar" />
+    </item>
+    <item
+        jar="/Users/ttrojan/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.4.0/40340c0748190fe897baf7bffbc1b282734294e5/okhttp-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="40340c0748190fe897baf7bffbc1b282734294e5">
+        <dex dex="/Users/ttrojan/Desktop/example/android/app/build/intermediates/pre-dexed/debug/okhttp-2.4.0-a653aa22b1211d4f5df7616e50dd5a8e7ee39c66.jar" />
+    </item>
+    <item
+        jar="/usr/local/opt/android-sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.0/support-annotations-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="/Users/ttrojan/Desktop/example/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.0-4f343f0345feb8db756d1d4ab841cc8ebc96c76c.jar" />
+    </item>
+    <item
+        jar="/Users/ttrojan/Desktop/example/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="/Users/ttrojan/Desktop/example/android/app/build/intermediates/pre-dexed/debug/classes-7e89f3da80ab5445040858f633a500a02177437a.jar" />
+    </item>
+
+</items>
