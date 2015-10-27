@@ -8,4 +8,4 @@ Installation
 
 Resources
 -
-- [react-native-android-audio-streaming-aac](https://www.npmjs.com/package/react-native-android-audio-streaming-aac0)
+- [react-native-android-audio-streaming-aac](https://www.npmjs.com/package/react-native-android-audio-streaming-aac)
