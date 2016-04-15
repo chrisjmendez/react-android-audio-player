@@ -3,7 +3,7 @@ React Native Audio Player for Android
 
 Installation
 - 
-1. [Setup guide](https://gist.github.com/chrisjmendez/e62b5a46323fc3c6e1f3)
+1. [Setup guide](http://www.chrisjmendez.com/2016/04/15/android-development-with-react-native/)
 
 
 Resources
