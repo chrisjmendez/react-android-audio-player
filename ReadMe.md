@@ -1,11 +1,11 @@
 React Native Audio Player for Android
 =
 
-Installation
+# Getting Started
 - 
-1. [Setup guide](http://www.chrisjmendez.com/2016/04/15/android-development-with-react-native/)
+1. [Setup guide](https://goo.gl/bwcsza)
 
 
-Resources
+# Resources
 -
 - [react-native-android-audio-streaming-aac](https://www.npmjs.com/package/react-native-android-audio-streaming-aac)
